@@ -52,161 +52,34 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-* **[Trialbee](https://www.trialbee.com/)**
-
-  Patient recruitment and engagement platform focused on digital recruitment, participant identification, prescreening and enrollment support for clinical studies.
-
-
-
-* **[AutoCruitment](https://www.autocruitment.com/)**
-
-  Digital patient recruitment platform that uses online advertising, technology and prescreening workflows to identify and refer potential clinical-trial participants.
-
-
-
-* **[SubjectWell](https://subjectwell.com/)**
-
-  Patient recruitment company and technology platform focused on identifying and engaging potential participants for clinical research studies.
-
-
-
-* **[Clara Health](https://clarahealth.com/)**
-
-  Patient-centered clinical research platform supporting participant engagement, clinical-trial discovery and recruitment.
-
-
-
-* **[Antidote](https://www.antidote.me/)**
-
-  Clinical trial search and patient matching platform designed to help patients discover potentially relevant research opportunities.
-
-
-
-* **[Inato](https://inato.com/)**
-
-  Clinical trial platform focused on improving sponsor and research-site collaboration, site access and patient recruitment through better trial feasibility and operational intelligence.
-
-
-
-* **[Deep 6 AI](https://deep6.ai/)**
-
-  AI-powered clinical trial recruitment and patient-matching platform that analyzes healthcare data to identify potentially eligible patients for research studies.
-
-
-
-* **[BrightInsight](https://www.brightinsight.com/)**
-
-  Digital health platform supporting regulated connected health solutions, decentralized research and digital patient engagement workflows.
-
-
-
-* **[Elligo Health Research](https://www.elligohealthresearch.com/)**
-
-  Clinical research infrastructure and patient recruitment organization that works with healthcare providers and research networks to identify participants.
-
-
-
-* **[StudyKIK](https://studykik.com/)**
-
-  Digital clinical-trial recruitment platform focused on online advertising, social media outreach and participant acquisition.
-
-
-
-* **[OpenClinica Study Hub](https://www.openclinica.com/)**
-
-  Connected clinical research platform supporting recruitment, prescreening, participant engagement, communications, enrollment and clinical data workflows.
-
-
-
-* **[Science 37](https://www.science37.com/)**
-
-  Decentralized clinical trial platform supporting patient-centric study participation, digital engagement and distributed clinical research operations.
-
-
-
-* **[Medable](https://www.medable.com/)**
-
-  Digital and decentralized clinical trial platform supporting patient engagement, remote participation and digital research workflows.
-
-
-
-* **[THREAD](https://www.threadresearch.com/)**
-
-  Clinical research technology platform supporting decentralized trials, participant engagement and digital study operations.
-
-
-
-* **[Medidata Patient Cloud](https://www.medidata.com/)**
-
-  Clinical trial technology ecosystem supporting digital participant engagement, eConsent and decentralized clinical research workflows.
-
-
-
-* **[TriNetX](https://trinetx.com/)**
-
-  Clinical research network and analytics platform supporting cohort discovery, trial feasibility and identification of potential study populations.
-
-
-
-* **[Komodo Health](https://www.komodohealth.com/)**
-
-  Healthcare analytics and patient-journey platform that can support population analysis, patient identification and clinical research insights.
-
-
-
-* **[IQVIA Patient Recruitment](https://www.iqvia.com/)**
-
-  Clinical research services and technology capabilities supporting patient recruitment, site engagement and enrollment.
-
-
-
-* **[Parexel Patient Recruitment](https://www.parexel.com/)**
-
-  Clinical research services organization providing patient recruitment and engagement capabilities for sponsors and clinical studies.
-
-
-
-* **[Syneos Health](https://www.syneoshealth.com/)**
-
-  Clinical development organization providing patient recruitment and engagement services as part of broader clinical research operations.
-
-
-
-* **[Mural Health](https://www.muralhealth.com/)**
-
-  Participant-focused clinical research platform supporting engagement, retention and operational coordination.
-
-
-
-* **[PatientPoint](https://www.patientpoint.com/)**
-
-  Healthcare engagement platform that can support awareness and communication campaigns relevant to clinical research recruitment.
-
-
-
-* **[Clinical Trial Media](https://clinicaltrialmedia.com/)**
-
-  Clinical trial recruitment and patient engagement organization using digital outreach and campaign strategies.
-
-
-
-* **[TrialSpark](https://www.trialspark.com/)**
-
-  Technology-enabled clinical trial organization supporting modern study operations and patient recruitment.
-
-
-
-* **[Carebox Connect](https://www.careboxhealth.com/)**
-
-  Digital healthcare marketing and clinical trial awareness platform supporting patient engagement and recruitment campaigns.
-
-
-
-* **[Rare Patient Voice](https://rarepatientvoice.com/)**
-
-  Patient community and research recruitment organization supporting access to patient populations for healthcare and research studies.
+| Platform | Description | Pricing (Starting Tier) | Free Tier / Free Trial Limits |
+| :--- | :--- | :--- | :--- |
+| **[Trialbee](https://www.trialbee.com/)** | Digital patient recruitment and engagement platform (Honey Platform) focused on participant identification, prescreening, and enrollment analytics. | Starts at $2,500/month per active study (or $15,000/study campaign package) | Free forever for patients to browse and match; 14-day free pilot trial for sponsors/CROs (limited to 1 study protocol sandbox) |
+| **[AutoCruitment](https://www.autocruitment.com/)** | Digital patient recruitment platform utilizing targeted online outreach, prescreening workflows, and milestone-aligned outcome tracking. | Starts at $2,000/month base management fee + performance milestone tier (~25%–70% outcome fees per consented patient) | Free forever for patients seeking clinical trials; 30-day trial feasibility assessment (1 protocol screening simulation) |
+| **[SubjectWell](https://subjectwell.com/)** | Risk-free clinical trial patient recruitment marketplace with dedicated Patient Companions and global candidate pools. | Starts at $0 upfront fee; $500 – $2,500 per randomized patient depending on therapeutic area | Free forever for patients to join research pool; 100% risk-free sponsor access (no cost until patient successfully randomizes) |
+| **[Clara Health](https://clarahealth.com/)** | Patient-centered clinical research discovery and care navigation platform supporting participant engagement and recruitment. | Starts at $25/month for patient health record navigation; sponsor study campaigns start at $3,500/study | Free forever for patients and caregivers (unlimited trial searches, eligibility filtering, and coordinator chat); 14-day sponsor trial |
+| **[Antidote](https://www.antidote.me/)** | Clinical trial search engine and precision patient matching platform connecting participants with medical studies. | Starts at $1,500 upfront calibration fee / $250 – $1,500 per qualified patient referral | Free forever for patients using Antidote Match (unlimited trial searches and matching questionnaires); 30-day sponsor sandbox |
+| **[Inato](https://inato.com/)** | Community research site marketplace matching trial sponsors with hospital sites to expand patient diversity and access. | Free for community research sites; sponsor access starts at $5,000 per study site-matching campaign | Free forever for community research sites (unlimited trial discovery and site profile listings); 14-day sponsor feasibility trial |
+| **[Deep 6 AI](https://deep6.ai/)** | AI and NLP-powered clinical trial acceleration platform querying structured and unstructured EHR data for real-time patient matching. | Starts at $4,000/month per health facility deployment (or $50,000/year institutional tier) | 30-day free pilot trial for health systems (limited to 1 EHR connector and up to 10 clinical study queries) |
+| **[BrightInsight](https://www.brightinsight.com/)** | Regulated digital health and decentralized clinical trial platform for connected medical devices, companion apps, and patient workflows. | Starts at $5,000/month infrastructure base tier for regulated SaMD and digital trial data services | 30-day developer sandbox trial (includes 1 simulated device integration, mock patient telemetry, and API sandbox) |
+| **[Elligo Health Research](https://www.elligohealthresearch.com/)** | Healthcare-integrated clinical research network connecting trial sponsors with physician practices and EHR patient pools. | Starts at $1,500 – $3,000 per enrolled patient with low baseline site enablement fee | Free forever for community physicians and patients to participate in trial networks; 14-day feasibility assessment for sponsors |
+| **[StudyKIK](https://studykik.com/)** | Clinical trial recruitment platform utilizing social media communities, digital pre-screening (StudyForms), and mobile engagement. | Starts at $2,200 per 30-day campaign (Platinum Tier; Diamond at $3,800/30d, Ruby at $5,800/30d) | Free forever for patients (unlimited study browsing, signups, and stipend tracking); 14-day trial for research sites (lead portal access) |
+| **[OpenClinica Study Hub](https://www.openclinica.com/)** | Cloud clinical data management and participant recruitment/eConsent platform supporting decentralized and hybrid studies. | Starts at $750/month (single-study tier) or $1,000/month (enterprise EDC/Study Hub starter) | 30-day free trial (full EDC & Study Hub sandbox with 1 study build and up to 25 mock patient records); Community Edition is 100% free open-source |
+| **[Science 37](https://www.science37.com/)** | Decentralized clinical trial platform (Metasite OS) enabling patient recruitment, telemedicine visits, and home-based clinical trials. | Starts at $4,500/month per active virtual study cohort (or milestone-based enrollment pricing) | Free forever for trial participants (unlimited telemedicine visits and mobile app); 14-day demo sandbox for investigators |
+| **[Medable](https://www.medable.com/)** | Modular decentralized clinical trial platform for eConsent, eCOA/ePRO, telehealth, and direct-to-patient recruitment. | Starts at $3,000/month per study for core eConsent/ePRO modules (or $35,000/year base package) | Free forever for patient participants; 30-day sandbox trial for study teams (up to 1 study build and 50 test submissions) |
+| **[THREAD](https://www.threadresearch.com/)** | Decentralized research and eCOA platform supporting hybrid, virtual, and site-based clinical studies. | Starts at $3,500/month per active study protocol for standard recruitment and remote eConsent/eCOA modules | Free forever for clinical trial participants; 14-day sponsor trial (includes trial design sandbox and 1 protocol workflow template) |
+| **[Medidata Patient Cloud](https://www.medidata.com/)** | Clinical trial technology suite providing eConsent, myMedidata participant portals, eCOA, and recruitment registries. | Starts at $1,000/user/month (entry CTMS/study module) or $4,000/month per active clinical study | Free forever for patients on myMedidata registry; 30-day trial sandbox for registered CROs (up to 1 study configuration) |
+| **[TriNetX](https://trinetx.com/)** | Global federated health research network providing real-world EHR data for feasibility, cohort identification, and clinical trial matching. | Starts at $2,500/month per research seat (or $25,000/year investigator query subscription) | Free forever for participating healthcare organizations contributing de-identified EHR data; 14-day trial (up to 10 cohort queries) |
+| **[Komodo Health](https://www.komodohealth.com/)** | Healthcare map and real-world patient-journey analytics platform for cohort discovery, diversity tracking, and site selection. | Starts at $1,667/month (billed annually at $20,000/year) for entry cohort analytics modules | 14-day trial for research analysts (includes sample patient journey dataset and up to 5 cohort query runs) |
+| **[IQVIA Patient Recruitment](https://www.iqvia.com/)** | End-to-end patient recruitment and retention solutions combining real-world healthcare data, targeted digital outreach, and nurse navigators. | Starts at $3,000/month base management fee + $800 – $2,000 per consented/randomized patient | Free forever for patients searching clinical studies on IQVIA Clinical Research portal; 14-day feasibility trial for sponsors |
+| **[Parexel Patient Recruitment](https://www.parexel.com/)** | Full-service patient recruitment, engagement, and retention solutions leveraging genomic intelligence and site networks. | Starts at $3,500/month study management tier + performance-based enrollment milestone fees | Free forever for patient community members; 14-day trial protocol feasibility review for biotech sponsors |
+| **[Syneos Health](https://www.syneoshealth.com/)** | Integrated clinical and commercial platform offering behavioral patient recruitment, digital advertising, and site-support teams. | Starts at $3,000/month management retainer + tiered milestone fees per enrolled participant | Free forever for patients seeking clinical trial matching; 14-day sponsor feasibility analysis trial |
+| **[Mural Health](https://www.muralhealth.com/)** | Participant management platform offering patient stipends, travel arrangements, communication, and retention tracking (Mural Link). | Starts at $500/month per active study + $5 – $15 transaction fee per participant stipend disbursement | Free forever for clinical trial participants (zero payout/transfer fees and no inactivity fees); 30-day free trial for research sites (up to 20 participant payments) |
+| **[PatientPoint](https://www.patientpoint.com/)** | Point-of-care digital engagement network across physician waiting rooms and exam rooms for patient recruitment campaigns. | Starts at $1,500/month per specialty clinic cluster for recruitment campaign placements | Free forever for medical provider practices (complimentary digital screens and hardware); 30-day advertising campaign trial for sponsors |
+| **[Clinical Trial Media](https://clinicaltrialmedia.com/)** | Global patient recruitment agency providing omni-channel marketing, screening landing pages, and candidate tracking portals. | Starts at $2,500/month campaign management fee (or $350 – $1,800 per qualified randomized patient) | Free forever for patients browsing and applying to clinical trials; 14-day trial feasibility and demographic reach assessment for sponsors |
+| **[TrialSpark](https://www.trialspark.com/)** | Tech-driven drug development and clinical trial execution platform with integrated recruitment and automated site workflows. | Starts at $5,000/month platform operational fee (or risk-shared co-development / milestone-based models) | Free forever for trial participants; 14-day trial protocol optimization and recruitment feasibility simulation for sponsors |
+| **[Carebox Connect](https://www.careboxhealth.com/)** | Patient-to-trial matching technology and widget platform connecting patients, oncologists, and healthcare centers to clinical studies. | Starts at $500/month for web widget & trial search integration (or $50/lead unlock token packages) | Free forever for patients and caregivers (unlimited trial matching and navigation); 30-day free trial for research centers (includes 5 free patient lead unlocks) |
+| **[Rare Patient Voice](https://rarepatientvoice.com/)** | Patient community and recruitment platform specializing in rare and complex diseases for clinical studies and surveys. | Starts at $250 flat set-up fee (feasibility studies); recruitment starting at $120 – $300 per qualified patient interview/referral | Free forever for patients and caregivers (earns ~$120/hr honorarium for participating); 14-day free feasibility inquiry for researchers (1 study criteria check) |
 
 
 
