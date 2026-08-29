@@ -94,219 +94,219 @@ A curated, comprehensive directory of top **SaaS platforms**, commercial enterpr
 
 ### 🎯 Direct Clinical Trial Matching & Patient-to-Trial Discovery
 
-* **[TrialGPT](https://github.com/bionlplab/TrialGPT)** [![GitHub stars](https://img.shields.io/github/stars/bionlplab/TrialGPT?style=social&color=white)](https://github.com/bionlplab/TrialGPT/stargazers)
+* **[TrialGPT](https://github.com/bionlplab/TrialGPT)** [![GitHub_Stars](https://img.shields.io/github/stars/bionlplab/TrialGPT?style=social&color=white)](https://github.com/bionlplab/TrialGPT/stargazers)
   An end-to-end LLM-based agent developed for matching patient summaries and electronic health records to clinical trials with verifiable criterion-level explanations.
 
-* **[MatchMiner](https://github.com/dfci/matchminer)** [![GitHub stars](https://img.shields.io/github/stars/dfci/matchminer?style=social&color=white)](https://github.com/dfci/matchminer/stargazers)
+* **[MatchMiner](https://github.com/dfci/matchminer)** [![GitHub_Stars](https://img.shields.io/github/stars/dfci/matchminer?style=social&color=white)](https://github.com/dfci/matchminer/stargazers)
   Major open-source precision medicine platform developed at Dana-Farber Cancer Institute for matching patient-specific genomic and clinical profiles to precision oncology clinical trials.
 
-* **[Criteria2Query](https://github.com/OHDSI/Criteria2Query)** [![GitHub stars](https://img.shields.io/github/stars/OHDSI/Criteria2Query?style=social&color=white)](https://github.com/OHDSI/Criteria2Query/stargazers)
+* **[Criteria2Query](https://github.com/OHDSI/Criteria2Query)** [![GitHub_Stars](https://img.shields.io/github/stars/OHDSI/Criteria2Query?style=social&color=white)](https://github.com/OHDSI/Criteria2Query/stargazers)
   Natural-language cohort identification system developed within OHDSI that parses free-text inclusion/exclusion criteria into executable OMOP SQL queries.
 
-* **[TrialThread](https://github.com/ericporres/trialthread)** [![GitHub stars](https://img.shields.io/github/stars/ericporres/trialthread?style=social&color=white)](https://github.com/ericporres/trialthread/stargazers)
+* **[TrialThread](https://github.com/ericporres/trialthread)** [![GitHub_Stars](https://img.shields.io/github/stars/ericporres/trialthread?style=social&color=white)](https://github.com/ericporres/trialthread/stargazers)
   Open-source AI-assisted clinical-trial matching engine that searches live clinical-trial registries and evaluates patient medical descriptions against study eligibility criteria with reasoning transparency.
 
-* **[C-T-MATCH](https://github.com/lhncbc/C-T-MATCH)** [![GitHub stars](https://img.shields.io/github/stars/lhncbc/C-T-MATCH?style=social&color=white)](https://github.com/lhncbc/C-T-MATCH/stargazers)
+* **[C-T-MATCH](https://github.com/lhncbc/C-T-MATCH)** [![GitHub_Stars](https://img.shields.io/github/stars/lhncbc/C-T-MATCH?style=social&color=white)](https://github.com/lhncbc/C-T-MATCH/stargazers)
   Clinical trial matching algorithms and evaluation tools developed by the Lister Hill National Center for Biomedical Communications (NLM/NIH).
 
 ---
 
 ### 🧬 OHDSI and OMOP Cohort Discovery
 
-* **[OHDSI ATLAS](https://github.com/OHDSI/Atlas)** [![GitHub stars](https://img.shields.io/github/stars/OHDSI/Atlas?style=social&color=white)](https://github.com/OHDSI/Atlas/stargazers)
+* **[OHDSI ATLAS](https://github.com/OHDSI/Atlas)** [![GitHub_Stars](https://img.shields.io/github/stars/OHDSI/Atlas?style=social&color=white)](https://github.com/OHDSI/Atlas/stargazers)
   The foundational open-source web platform for defining complex patient cohorts, phenotyping clinical conditions, and conducting observational research across OMOP Common Data Model databases.
 
-* **[OHDSI WebAPI](https://github.com/OHDSI/WebAPI)** [![GitHub stars](https://img.shields.io/github/stars/OHDSI/WebAPI?style=social&color=white)](https://github.com/OHDSI/WebAPI/stargazers)
+* **[OHDSI WebAPI](https://github.com/OHDSI/WebAPI)** [![GitHub_Stars](https://img.shields.io/github/stars/OHDSI/WebAPI?style=social&color=white)](https://github.com/OHDSI/WebAPI/stargazers)
   Open-source backend REST API service supporting ATLAS, managing OMOP CDM cohort definitions, vocabulary queries, characterizations, and incidence rates.
 
-* **[OHDSI PatientLevelPrediction](https://github.com/OHDSI/PatientLevelPrediction)** [![GitHub stars](https://img.shields.io/github/stars/OHDSI/PatientLevelPrediction?style=social&color=white)](https://github.com/OHDSI/PatientLevelPrediction/stargazers)
+* **[OHDSI PatientLevelPrediction](https://github.com/OHDSI/PatientLevelPrediction)** [![GitHub_Stars](https://img.shields.io/github/stars/OHDSI/PatientLevelPrediction?style=social&color=white)](https://github.com/OHDSI/PatientLevelPrediction/stargazers)
   Open-source R framework for building, validating, and evaluating patient-level predictive models for study enrollment feasibility and risk stratification.
 
-* **[OHDSI CohortGenerator](https://github.com/OHDSI/CohortGenerator)** [![GitHub stars](https://img.shields.io/github/stars/OHDSI/CohortGenerator?style=social&color=white)](https://github.com/OHDSI/CohortGenerator/stargazers)
+* **[OHDSI CohortGenerator](https://github.com/OHDSI/CohortGenerator)** [![GitHub_Stars](https://img.shields.io/github/stars/OHDSI/CohortGenerator?style=social&color=white)](https://github.com/OHDSI/CohortGenerator/stargazers)
   R package designed for generating cohort instances from standardized OMOP CDM cohort definitions with high performance and cohort counting.
 
-* **[OHDSI Capr](https://github.com/OHDSI/Capr)** [![GitHub stars](https://img.shields.io/github/stars/OHDSI/Capr?style=social&color=white)](https://github.com/OHDSI/Capr/stargazers)
+* **[OHDSI Capr](https://github.com/OHDSI/Capr)** [![GitHub_Stars](https://img.shields.io/github/stars/OHDSI/Capr?style=social&color=white)](https://github.com/OHDSI/Capr/stargazers)
   Code-as-cohort framework allowing clinical researchers to programmatically author and maintain reproducible OMOP cohort definitions in R.
 
-* **[OHDSI PhenotypeLibrary](https://github.com/OHDSI/PhenotypeLibrary)** [![GitHub stars](https://img.shields.io/github/stars/OHDSI/PhenotypeLibrary?style=social&color=white)](https://github.com/OHDSI/PhenotypeLibrary/stargazers)
+* **[OHDSI PhenotypeLibrary](https://github.com/OHDSI/PhenotypeLibrary)** [![GitHub_Stars](https://img.shields.io/github/stars/OHDSI/PhenotypeLibrary?style=social&color=white)](https://github.com/OHDSI/PhenotypeLibrary/stargazers)
   Community-validated phenotype definitions for identifying specific patient populations across global clinical data networks.
 
 ---
 
 ### 🏥 Clinical Cohort Discovery Platforms
 
-* **[cBioPortal](https://github.com/cBioPortal/cbioportal)** [![GitHub stars](https://img.shields.io/github/stars/cBioPortal/cbioportal?style=social&color=white)](https://github.com/cBioPortal/cbioportal/stargazers)
+* **[cBioPortal](https://github.com/cBioPortal/cbioportal)** [![GitHub_Stars](https://img.shields.io/github/stars/cBioPortal/cbioportal?style=social&color=white)](https://github.com/cBioPortal/cbioportal/stargazers)
   Comprehensive open-source cancer genomics platform supporting interactive exploration of multidimensional clinical and genomic datasets for precision trial matching.
 
-* **[i2b2 Core Server](https://github.com/i2b2/i2b2-core-server)** [![GitHub stars](https://img.shields.io/github/stars/i2b2/i2b2-core-server?style=social&color=white)](https://github.com/i2b2/i2b2-core-server/stargazers)
+* **[i2b2 Core Server](https://github.com/i2b2/i2b2-core-server)** [![GitHub_Stars](https://img.shields.io/github/stars/i2b2/i2b2-core-server?style=social&color=white)](https://github.com/i2b2/i2b2-core-server/stargazers)
   Informatics for Integrating Biology & the Bedside — scalable clinical research data warehouse platform enabling self-service cohort queries and participant identification.
 
-* **[Leaf Clinical Data Explorer](https://github.com/uwrit/leaf)** [![GitHub stars](https://img.shields.io/github/stars/uwrit/leaf?style=social&color=white)](https://github.com/uwrit/leaf/stargazers)
+* **[Leaf Clinical Data Explorer](https://github.com/uwrit/leaf)** [![GitHub_Stars](https://img.shields.io/github/stars/uwrit/leaf?style=social&color=white)](https://github.com/uwrit/leaf/stargazers)
   Modern, lightweight, user-friendly clinical data querying web tool developed at University of Washington for querying EHR data, estimating cohort counts, and extracting research datasets.
 
-* **[tranSMART App](https://github.com/transmart/transmartApp)** [![GitHub stars](https://img.shields.io/github/stars/transmart/transmartApp?style=social&color=white)](https://github.com/transmart/transmartApp/stargazers)
+* **[tranSMART App](https://github.com/transmart/transmartApp)** [![GitHub_Stars](https://img.shields.io/github/stars/transmart/transmartApp?style=social&color=white)](https://github.com/transmart/transmartApp/stargazers)
   Translational research informatics platform for integrating clinical trials data, high-throughput biomarkers, and patient phenotypes.
 
-* **[SHRINE](https://github.com/SHRINE/shrine)** [![GitHub stars](https://img.shields.io/github/stars/SHRINE/shrine?style=social&color=white)](https://github.com/SHRINE/shrine/stargazers)
+* **[SHRINE](https://github.com/SHRINE/shrine)** [![GitHub_Stars](https://img.shields.io/github/stars/SHRINE/shrine?style=social&color=white)](https://github.com/SHRINE/shrine/stargazers)
   Shared Health Research Informatics Network — federated querying infrastructure enabling multi-institutional cohort estimation across networked i2b2 nodes.
 
 ---
 
 ### 🩺 Clinical Data Platforms for Recruitment Workflows
 
-* **[OpenEMR](https://github.com/openemr/openemr)** [![GitHub stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers)
+* **[OpenEMR](https://github.com/openemr/openemr)** [![GitHub_Stars](https://img.shields.io/github/stars/openemr/openemr?style=social&color=white)](https://github.com/openemr/openemr/stargazers)
   ONC-certified open-source electronic health records and medical practice management platform supporting patient demographics, problem lists, and research query extensions.
 
-* **[OpenMRS Core](https://github.com/openmrs/openmrs-core)** [![GitHub stars](https://img.shields.io/github/stars/openmrs/openmrs-core?style=social&color=white)](https://github.com/openmrs/openmrs-core/stargazers)
+* **[OpenMRS Core](https://github.com/openmrs/openmrs-core)** [![GitHub_Stars](https://img.shields.io/github/stars/openmrs/openmrs-core?style=social&color=white)](https://github.com/openmrs/openmrs-core/stargazers)
   Extensible open-source medical record system platform powering healthcare facilities globally and providing clinical data foundations for institutional recruitment pipelines.
 
-* **[OpenClinica](https://github.com/OpenClinica/OpenClinica)** [![GitHub stars](https://img.shields.io/github/stars/OpenClinica/OpenClinica?style=social&color=white)](https://github.com/OpenClinica/OpenClinica/stargazers)
+* **[OpenClinica](https://github.com/OpenClinica/OpenClinica)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenClinica/OpenClinica?style=social&color=white)](https://github.com/OpenClinica/OpenClinica/stargazers)
   Open-source Electronic Data Capture (EDC) and Clinical Data Management system supporting clinical study protocols, eCRFs, subject tracking, and regulatory audit trails.
 
-* **[GNU Health](https://github.com/gnuhealth/gnuhealth)** [![GitHub stars](https://img.shields.io/github/stars/gnuhealth/gnuhealth?style=social&color=white)](https://github.com/gnuhealth/gnuhealth/stargazers)
+* **[GNU Health](https://github.com/gnuhealth/gnuhealth)** [![GitHub_Stars](https://img.shields.io/github/stars/gnuhealth/gnuhealth?style=social&color=white)](https://github.com/gnuhealth/gnuhealth/stargazers)
   Free, open-source Hospital and Health Information System (HIS/EHR) supporting socioeconomic data, genetics, patient records, and epidemiology.
 
 ---
 
 ### 🔥 FHIR-Based Patient Discovery & Interoperability
 
-* **[HAPI FHIR](https://github.com/hapifhir/hapi-fhir)** [![GitHub stars](https://img.shields.io/github/stars/hapifhir/hapi-fhir?style=social&color=white)](https://github.com/hapifhir/hapi-fhir/stargazers)
+* **[HAPI FHIR](https://github.com/hapifhir/hapi-fhir)** [![GitHub_Stars](https://img.shields.io/github/stars/hapifhir/hapi-fhir?style=social&color=white)](https://github.com/hapifhir/hapi-fhir/stargazers)
   Complete open-source Java implementation of the HL7 FHIR standard for healthcare data storage, interoperability, and search APIs required for real-time patient-trial matching.
 
-* **[SMART on FHIR Client JS](https://github.com/smart-on-fhir/client-js)** [![GitHub stars](https://img.shields.io/github/stars/smart-on-fhir/client-js?style=social&color=white)](https://github.com/smart-on-fhir/client-js/stargazers)
+* **[SMART on FHIR Client JS](https://github.com/smart-on-fhir/client-js)** [![GitHub_Stars](https://img.shields.io/github/stars/smart-on-fhir/client-js?style=social&color=white)](https://github.com/smart-on-fhir/client-js/stargazers)
   JavaScript library for building SMART-on-FHIR clinical applications that securely integrate directly into clinician workflows and EHR patient screening charts.
 
-* **[Google FHIR](https://github.com/google/fhir)** [![GitHub stars](https://img.shields.io/github/stars/google/fhir?style=social&color=white)](https://github.com/google/fhir/stargazers)
+* **[Google FHIR](https://github.com/google/fhir)** [![GitHub_Stars](https://img.shields.io/github/stars/google/fhir?style=social&color=white)](https://github.com/google/fhir/stargazers)
   Google's open-source suite of software tools and protocol buffer definitions for handling, querying, and transforming HL7 FHIR healthcare data at scale.
 
-* **[Firely Server](https://github.com/FirelyTeam/firely-server)** [![GitHub stars](https://img.shields.io/github/stars/FirelyTeam/firely-server?style=social&color=white)](https://github.com/FirelyTeam/firely-server/stargazers)
+* **[Firely Server](https://github.com/FirelyTeam/firely-server)** [![GitHub_Stars](https://img.shields.io/github/stars/FirelyTeam/firely-server?style=social&color=white)](https://github.com/FirelyTeam/firely-server/stargazers)
   High-performance open-source .NET HL7 FHIR server (formerly Vonk) supporting interoperable healthcare data exchange and search queries.
 
-* **[FHIR Shorthand (FSH)](https://github.com/FHIR/FSH)** [![GitHub stars](https://img.shields.io/github/stars/FHIR/FSH?style=social&color=white)](https://github.com/FHIR/FSH/stargazers)
+* **[FHIR Shorthand (FSH)](https://github.com/FHIR/FSH)** [![GitHub_Stars](https://img.shields.io/github/stars/FHIR/FSH?style=social&color=white)](https://github.com/FHIR/FSH/stargazers)
   Domain-specific language and compiler (SUSHI) for defining clinical trial profiles, research data models, and FHIR implementation guides.
 
 ---
 
 ### 🧠 Clinical NLP & Eligibility Criteria Processing
 
-* **[Spark NLP](https://github.com/JohnSnowLabs/spark-nlp)** [![GitHub stars](https://img.shields.io/github/stars/JohnSnowLabs/spark-nlp?style=social&color=white)](https://github.com/JohnSnowLabs/spark-nlp/stargazers)
+* **[Spark NLP](https://github.com/JohnSnowLabs/spark-nlp)** [![GitHub_Stars](https://img.shields.io/github/stars/JohnSnowLabs/spark-nlp?style=social&color=white)](https://github.com/JohnSnowLabs/spark-nlp/stargazers)
   State-of-the-art Natural Language Processing library with pretrained biomedical and clinical models for entity recognition, assertion status, and medical terminology resolution.
 
-* **[scispaCy](https://github.com/allenai/scispacy)** [![GitHub stars](https://img.shields.io/github/stars/allenai/scispacy?style=social&color=white)](https://github.com/allenai/scispacy/stargazers)
+* **[scispaCy](https://github.com/allenai/scispacy)** [![GitHub_Stars](https://img.shields.io/github/stars/allenai/scispacy?style=social&color=white)](https://github.com/allenai/scispacy/stargazers)
   Specialized spaCy pipeline developed by the Allen Institute for AI for processing biomedical, scientific, and clinical texts into structured entities.
 
-* **[medSpaCy](https://github.com/medspacy/medspacy)** [![GitHub stars](https://img.shields.io/github/stars/medspacy/medspacy?style=social&color=white)](https://github.com/medspacy/medspacy/stargazers)
+* **[medSpaCy](https://github.com/medspacy/medspacy)** [![GitHub_Stars](https://img.shields.io/github/stars/medspacy/medspacy?style=social&color=white)](https://github.com/medspacy/medspacy/stargazers)
   Clinical NLP library built on spaCy with modular components for clinical section detection, context analysis (negation, uncertainty), and concept mapping.
 
-* **[CogStack MedCAT](https://github.com/CogStack/MedCAT)** [![GitHub stars](https://img.shields.io/github/stars/CogStack/MedCAT?style=social&color=white)](https://github.com/CogStack/MedCAT/stargazers)
+* **[CogStack MedCAT](https://github.com/CogStack/MedCAT)** [![GitHub_Stars](https://img.shields.io/github/stars/CogStack/MedCAT?style=social&color=white)](https://github.com/CogStack/MedCAT/stargazers)
   Medical Concept Annotation Toolkit for extracting and linking clinical concepts (SNOMED-CT, UMLS) from unstructured electronic health record clinical notes.
 
-* **[Apache cTAKES](https://github.com/apache/ctakes)** [![GitHub stars](https://img.shields.io/github/stars/apache/ctakes?style=social&color=white)](https://github.com/apache/ctakes/stargazers)
+* **[Apache cTAKES](https://github.com/apache/ctakes)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/ctakes?style=social&color=white)](https://github.com/apache/ctakes/stargazers)
   Natural language processing system for extraction of structured clinical information from electronic medical record narrative free-text.
 
 ---
 
 ### 📜 Trial Registry & Study Metadata
 
-* **[AACT Database Tools](https://github.com/CTTI-ClinicalTrials/aact)** [![GitHub stars](https://img.shields.io/github/stars/CTTI-ClinicalTrials/aact?style=social&color=white)](https://github.com/CTTI-ClinicalTrials/aact/stargazers)
+* **[AACT Database Tools](https://github.com/CTTI-ClinicalTrials/aact)** [![GitHub_Stars](https://img.shields.io/github/stars/CTTI-ClinicalTrials/aact?style=social&color=white)](https://github.com/CTTI-ClinicalTrials/aact/stargazers)
   Relational PostgreSQL database pipeline and schema for transforming the entirety of ClinicalTrials.gov into queryable relational data for eligibility research.
 
-* **[OpenTrials](https://github.com/opentrials/opentrials)** [![GitHub stars](https://img.shields.io/github/stars/opentrials/opentrials?style=social&color=white)](https://github.com/opentrials/opentrials/stargazers)
+* **[OpenTrials](https://github.com/opentrials/opentrials)** [![GitHub_Stars](https://img.shields.io/github/stars/opentrials/opentrials?style=social&color=white)](https://github.com/opentrials/opentrials/stargazers)
   Open-data initiative and API repository indexing clinical trial registry information from multiple global registries to increase research accessibility.
 
-* **[ChEMBL Clinical Trials API Client](https://github.com/chembl/clinical-trials-api-client)** [![GitHub stars](https://img.shields.io/github/stars/chembl/clinical-trials-api-client?style=social&color=white)](https://github.com/chembl/clinical-trials-api-client/stargazers)
+* **[ChEMBL Clinical Trials API Client](https://github.com/chembl/clinical-trials-api-client)** [![GitHub_Stars](https://img.shields.io/github/stars/chembl/clinical-trials-api-client?style=social&color=white)](https://github.com/chembl/clinical-trials-api-client/stargazers)
   Python client library for querying and retrieving structured clinical trial protocol and eligibility information from international trial registries.
 
 ---
 
 ### 📬 Patient Communication & Engagement Automation
 
-* **[n8n](https://github.com/n8n-io/n8n)** [![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)
+* **[n8n](https://github.com/n8n-io/n8n)** [![GitHub_Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)
   Fair-code workflow automation tool for connecting clinical databases, prescreening webhooks, SMS alerts, calendar scheduling, and recruitment pipeline logic.
 
-* **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)
+* **[Cal.com](https://github.com/calcom/cal.com)** [![GitHub_Stars](https://img.shields.io/github/stars/calcom/cal.com?style=social&color=white)](https://github.com/calcom/cal.com/stargazers)
   Open-source scheduling infrastructure enabling candidate self-scheduling for clinical trial coordinator screening calls and site visits.
 
-* **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
+* **[Chatwoot](https://github.com/chatwoot/chatwoot)** [![GitHub_Stars](https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white)](https://github.com/chatwoot/chatwoot/stargazers)
   Open-source omnichannel customer engagement platform for managing candidate live chat, WhatsApp, email, and trial coordinator communications.
 
-* **[Node-RED](https://github.com/node-red/node-red)** [![GitHub stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)
+* **[Node-RED](https://github.com/node-red/node-red)** [![GitHub_Stars](https://img.shields.io/github/stars/node-red/node-red?style=social&color=white)](https://github.com/node-red/node-red/stargazers)
   Low-code event-driven programming platform for wiring together healthcare APIs, IoT trial wearables, databases, and patient engagement triggers.
 
-* **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)
+* **[Listmonk](https://github.com/knadh/listmonk)** [![GitHub_Stars](https://img.shields.io/github/stars/knadh/listmonk?style=social&color=white)](https://github.com/knadh/listmonk/stargazers)
   High-performance newsletter and mailing list manager suitable for privacy-compliant opt-in patient registry updates and study notifications.
 
-* **[Mautic](https://github.com/mautic/mautic)** [![GitHub stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
+* **[Mautic](https://github.com/mautic/mautic)** [![GitHub_Stars](https://img.shields.io/github/stars/mautic/mautic?style=social&color=white)](https://github.com/mautic/mautic/stargazers)
   Open-source marketing automation platform providing multi-stage nurture email sequences, SMS alerts, and lead scoring for clinical recruitment funnels.
 
 ---
 
 ### 📋 Forms, Prescreening & Consent Building Blocks
 
-* **[SurveyJS](https://github.com/surveyjs/survey-library)** [![GitHub stars](https://img.shields.io/github/stars/surveyjs/survey-library?style=social&color=white)](https://github.com/surveyjs/survey-library/stargazers)
+* **[SurveyJS](https://github.com/surveyjs/survey-library)** [![GitHub_Stars](https://img.shields.io/github/stars/surveyjs/survey-library?style=social&color=white)](https://github.com/surveyjs/survey-library/stargazers)
   Open-source JavaScript form and survey library with dynamic conditional branching, ideal for embedding clinical prescreening questionnaires and eligibility scoring.
 
-* **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)
+* **[Formbricks](https://github.com/formbricks/formbricks)** [![GitHub_Stars](https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white)](https://github.com/formbricks/formbricks/stargazers)
   Privacy-first open-source survey and experience management suite for building multi-step patient prescreening workflows and recruitment feedback forms.
 
-* **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** [![GitHub stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers)
+* **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** [![GitHub_Stars](https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white)](https://github.com/LimeSurvey/LimeSurvey/stargazers)
   Mature, feature-complete open-source survey tool supporting fine-grained quota management, complex branching logic, and secure participant screening.
 
-* **[ODK Collect](https://github.com/getodk/collect)** [![GitHub stars](https://img.shields.io/github/stars/getodk/collect?style=social&color=white)](https://github.com/getodk/collect/stargazers)
+* **[ODK Collect](https://github.com/getodk/collect)** [![GitHub_Stars](https://img.shields.io/github/stars/getodk/collect?style=social&color=white)](https://github.com/getodk/collect/stargazers)
   Open Data Kit mobile application for offline field screening, clinical participant intake, and community-based trial recruitment data collection.
 
-* **[KoBoToolbox KPI](https://github.com/kobotoolbox/kpi)** [![GitHub stars](https://img.shields.io/github/stars/kobotoolbox/kpi?style=social&color=white)](https://github.com/kobotoolbox/kpi/stargazers)
+* **[KoBoToolbox KPI](https://github.com/kobotoolbox/kpi)** [![GitHub_Stars](https://img.shields.io/github/stars/kobotoolbox/kpi?style=social&color=white)](https://github.com/kobotoolbox/kpi/stargazers)
   Robust survey management platform for humanitarian and global health research data collection in low-resource trial settings.
 
 ---
 
 ### 🔄 Research Workflow & Data Integration
 
-* **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)
+* **[Apache Airflow](https://github.com/apache/airflow)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/airflow?style=social&color=white)](https://github.com/apache/airflow/stargazers)
   Industry-standard workflow orchestration platform for scheduling periodic EHR ETL jobs, automated OMOP cohort updates, and trial database refreshes.
 
-* **[Apache NiFi](https://github.com/apache/nifi)** [![GitHub stars](https://img.shields.io/github/stars/apache/nifi?style=social&color=white)](https://github.com/apache/nifi/stargazers)
+* **[Apache NiFi](https://github.com/apache/nifi)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/nifi?style=social&color=white)](https://github.com/apache/nifi/stargazers)
   Easy to use, powerful, and reliable system to process and distribute data across disparate clinical systems, HL7 feeds, and trial data warehouses.
 
-* **[OpenSpecimen](https://github.com/krishagni/openspecimen)** [![GitHub stars](https://img.shields.io/github/stars/krishagni/openspecimen?style=social&color=white)](https://github.com/krishagni/openspecimen/stargazers)
+* **[OpenSpecimen](https://github.com/krishagni/openspecimen)** [![GitHub_Stars](https://img.shields.io/github/stars/krishagni/openspecimen?style=social&color=white)](https://github.com/krishagni/openspecimen/stargazers)
   Open-source biobanking informatics platform for tracking research biospecimens, consent forms, and participant longitudinal study visits.
 
-* **[LabKey Server](https://github.com/LabKey/labkey-server)** [![GitHub stars](https://img.shields.io/github/stars/LabKey/labkey-server?style=social&color=white)](https://github.com/LabKey/labkey-server/stargazers)
+* **[LabKey Server](https://github.com/LabKey/labkey-server)** [![GitHub_Stars](https://img.shields.io/github/stars/LabKey/labkey-server?style=social&color=white)](https://github.com/LabKey/labkey-server/stargazers)
   Scientific data management platform for integrating observational clinical datasets, assay measurements, and patient cohort longitudinal records.
 
 ---
 
 ### 📊 Analytics & Recruitment Intelligence
 
-* **[Grafana](https://github.com/grafana/grafana)** [![GitHub stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)
+* **[Grafana](https://github.com/grafana/grafana)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers)
   Operational monitoring and visualization platform for real-time tracking of candidate referral rates, site screening velocities, and system uptime.
 
-* **[Apache Superset](https://github.com/apache/superset)** [![GitHub stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)
+* **[Apache Superset](https://github.com/apache/superset)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)
   Enterprise-ready business intelligence platform for exploring clinical trial recruitment funnels, demographic diversity, and enrollment timelines.
 
-* **[Metabase](https://github.com/metabase/metabase)** [![GitHub stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)
+* **[Metabase](https://github.com/metabase/metabase)** [![GitHub_Stars](https://img.shields.io/github/stars/metabase/metabase?style=social&color=white)](https://github.com/metabase/metabase/stargazers)
   User-friendly open-source business intelligence tool that enables study coordinators and PIs to query enrollment SQL tables and build recruitment dashboards without code.
 
-* **[Jupyter Notebook](https://github.com/jupyter/notebook)** [![GitHub stars](https://img.shields.io/github/stars/jupyter/notebook?style=social&color=white)](https://github.com/jupyter/notebook/stargazers)
+* **[Jupyter Notebook](https://github.com/jupyter/notebook)** [![GitHub_Stars](https://img.shields.io/github/stars/jupyter/notebook?style=social&color=white)](https://github.com/jupyter/notebook/stargazers)
   Interactive computational environment for developing clinical matching algorithms, analyzing patient cohort distributions, and running statistical feasibility models.
 
 ---
 
 ### 🤖 AI-Assisted Recruitment & Matching Frameworks
 
-* **[LangChain](https://github.com/langchain-ai/langchain)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers)
+* **[LangChain](https://github.com/langchain-ai/langchain)** [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers)
   Framework for developing context-aware AI applications that connect LLMs with clinical trial registries, EHR knowledge graphs, and vector retrieval pipelines.
 
-* **[Ollama](https://github.com/ollama/ollama)** [![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)
+* **[Ollama](https://github.com/ollama/ollama)** [![GitHub_Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers)
   Get up and running with Llama 3, Mistral, and biomedical LLMs locally on HIPAA-compliant, air-gapped on-premise infrastructure for private clinical eligibility parsing.
 
-* **[LocalAI](https://github.com/mudler/LocalAI)** [![GitHub stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white)](https://github.com/mudler/LocalAI/stargazers)
+* **[LocalAI](https://github.com/mudler/LocalAI)** [![GitHub_Stars](https://img.shields.io/github/stars/mudler/LocalAI?style=social&color=white)](https://github.com/mudler/LocalAI/stargazers)
   Self-hosted, community-driven OpenAI-compatible API for running local models on CPU and GPU hardware without leaking patient health data to external APIs.
 
-* **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)
+* **[Haystack](https://github.com/deepset-ai/haystack)** [![GitHub_Stars](https://img.shields.io/github/stars/deepset-ai/haystack?style=social&color=white)](https://github.com/deepset-ai/haystack/stargazers)
   Production-ready LLM orchestration framework optimized for Retrieval-Augmented Generation (RAG) across clinical trial protocols and medical literature.
 
-* **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)
+* **[LangGraph](https://github.com/langchain-ai/langgraph)** [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=social&color=white)](https://github.com/langchain-ai/langgraph/stargazers)
   Framework for building stateful, multi-actor AI agent workflows with cyclical graphs, ideal for multi-step patient eligibility matching and verification loops.
 
 
